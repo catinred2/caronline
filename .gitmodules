@@ -1,0 +1,3 @@
+[submodule "skynet_module"]
+	path = skynet_module
+	url = https://github.com/catinred2/skynet.git
